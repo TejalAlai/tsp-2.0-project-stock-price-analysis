@@ -1,1 +1,2 @@
-# stock-price-analysis
+# stock-price-analysis using lstm
+
